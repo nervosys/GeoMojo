@@ -4,7 +4,9 @@ GeoMojo is a geospatial toolkit for the [Mojo programming language](https://www.
 
 ## Status
 
-Hello, world! Join us in our effort to accelerate geospatial computation, including artificial intelligence (AI), remote sensing (RS), geographic information systems (GIS), and simulation modeling.
+Hello, world!
+
+Join us in our effort to accelerate geospatial computation, including artificial intelligence (AI), remote sensing (RS), geographic information systems (GIS), and simulation modeling.
 
 ## Why Mojo?
 
