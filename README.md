@@ -1,7 +1,5 @@
 # GeoMojo🔥
 
-Get your geospatial Mojo going 🔥
-
 GeoMojo is a geospatial toolkit for the [Mojo programming language](https://www.modular.com/max/mojo), a (soon-to-be) strict superset of the Python language. Rather than re-invent the wheel (pun intended), GeoMojo focuses on accelerating heavy computational operations or workloads. That is because Mojo can import and interoperate with arbitrary Python libraries such as GeoPandas, PyProj, Shapely, Xarray, Dask, _et cetera_.
 
 ## Status
